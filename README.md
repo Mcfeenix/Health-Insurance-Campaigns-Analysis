@@ -11,18 +11,27 @@ The overarching goal of the marketing budget is to support two primary objective
 - **Increase awareness** of PeopleFirst Health’s insurance options  
 - **Boost customer signups** across all plan types
 
-### North Star Metrics
+## Data Structure
+The dataset includes three primary tables capturing campaign, customer, and claims information.
+
+<p align="center">
+<img width="500" alt="PeopleFirst_ERD" src="https://github.com/user-attachments/assets/1fbebcbc-437f-4912-b81f-77f013798ba3" />
+</p>
+
+## North Star Metrics
+
+These metrics measure both reach and conversion effectiveness and are used to compare campaign performance.
 
 | Objective | Metric | Description | Company Results (2019-2023) |
 |------------|---------|--------------|----------------|
 | **Increase Awareness** | Impressions | Number of times campaign content was displayed | 9M |
 |  | Click-Through Rate (CTR) | % of impressions resulting in clicks | 9.4% |
 |  | Cost per Impression (CPI) | Cost per display | $0.0066 |
-| **Increase Customer Signups** | Customer Signups | Number of new customers | 16,000 |
+| **Boost Customer Signups** | Customer Signups | Number of new customers | 16,000 |
 |  | Cost per Signup | Cost to acquire one new customer | $3.68 |
 |  | Signup Rate | % of clicks that resulted in a signup | 1.92% |
 
-### Notable Insights
+## Notable Insights
 
 - **Family Coverage Plan**  
   This campaign recorded no click-through rate (CTR), indicating a possible delivery or data tracking issue. The lack of engagement resulted in zero customer signups. Further investigation is recommended to confirm whether the campaign was properly deployed or if there were data collection errors.
