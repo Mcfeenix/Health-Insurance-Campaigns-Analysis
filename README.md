@@ -48,6 +48,13 @@ The following section breaks down the analysis by individual campaign.
 <img width="700" alt="campaign_spend (2)" src="https://github.com/user-attachments/assets/58d09878-032b-4adf-85f1-9cc4a6930391" />
 </p>
 
+### Campaign Performance by Impressions
+
+| Campaign Category | Key Insights |
+|------------------|--------------|
+| **Top Campaigns (by Impressions)** | Tailored Health Plans, #HealthyLiving, Preventive Care News, Family Coverage Plan<br>• These campaigns had high impressions and low Cost per Impression (CPI)<br>• Click-through rates (CTR) were variable across campaigns |
+| **Lowest Campaigns (by Impressions)** | Health for All, Benefit Updates, Affordable Plans, Golden Years Security<br>• These campaigns had low impressions<br>• Notably, the Health for All campaign had the **highest CTR** despite low impressions |
+
 <p align="center">
 <img width="700" alt="Impressions" src="https://github.com/user-attachments/assets/5d70fd1a-a909-4d91-b44f-88d02662dbd7" />
 </p>
