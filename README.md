@@ -83,12 +83,12 @@ The following section breaks down the analysis by individual campaign.
 
 - **#HealthyLiving**  
   This campaign was the only top performer in both impressions and customer signup metrics.
-  
-- **Family Coverage Plan**  
-  This campaign recorded no click-through rate (CTR), indicating a possible delivery or data tracking issue. The lack of engagement resulted in zero customer signups. Further investigation is recommended to confirm whether the campaign was properly deployed or if there were data collection errors.
 
 - **Health for All**  
   This campaign achieved **exceptional performance** despite having the **lowest number of impressions (170K)**. It recorded the **highest CTR (25%)**, generated **3,545 new customers**, maintained a **low cost per signup ($1)**, and achieved the **highest signup rate (8%)** among all campaigns. These results suggest highly effective messaging and targeting.
+  
+- **Family Coverage Plan**  
+  This campaign recorded no click-through rate (CTR), indicating a possible delivery or data tracking issue. The lack of engagement resulted in zero customer signups. Further investigation is recommended to confirm whether the campaign was properly deployed or if there were data collection errors.
 
 - **Golden Years Security**  
   This campaign underperformed across all key metrics, with **low impressions**, **low CTR**, **few customer signups**, and the **highest cost per signup**. Further analysis could help determine whether the issue stemmed from poor audience targeting or ineffective content.
