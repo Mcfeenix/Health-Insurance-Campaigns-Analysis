@@ -38,7 +38,7 @@ Customer signup activity showed a clear pandemic-related pattern. In **March 202
 Signups remained **elevated throughout the first year of the pandemic**, likely driven by increased interest in health coverage, but the **rate of new signups gradually slowed** in subsequent years as conditions stabilized.
 
 <p align="center">
-chart placeholder
+<img width="700" alt="signup_trends (2)" src="https://github.com/user-attachments/assets/b3a61917-e02e-48ff-bcad-dcb34bdb7cb3" />
 </p>
 
 ## Notable Insights
