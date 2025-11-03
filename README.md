@@ -50,18 +50,34 @@ The following section breaks down the analysis by individual campaign.
 
 ### Campaign Performance by Impressions
 
+<div align="center">
+  
 | Campaign Category | Key Insights |
 |------------------|--------------|
-| **Top Campaigns (by Impressions)** | Tailored Health Plans, #HealthyLiving, Preventive Care News, Family Coverage Plan<br>• These campaigns had high impressions and low Cost per Impression (CPI)<br>• Click-through rates (CTR) were variable across campaigns |
-| **Lowest Campaigns (by Impressions)** | Health for All, Benefit Updates, Affordable Plans, Golden Years Security<br>• These campaigns had low impressions<br>• Notably, the Health for All campaign had the **highest CTR** despite low impressions |
+| **Top Campaigns (by Impressions)** | • Low Cost per Impression (CPI)<br>• Wide range of Click-through rates (CTR) |
+| **Lowest Campaigns (by Impressions)** | • Wide range of Costs per Impression<br>• Notably, **Health for All** campaign had the **highest CTR (25%)** despite **low impressions (171k)** |
+
+</div>
 
 <p align="center">
 <img width="700" alt="Impressions" src="https://github.com/user-attachments/assets/5d70fd1a-a909-4d91-b44f-88d02662dbd7" />
 </p>
 
+### Campaign Performance by Customer Signups
+
+<div align="center">
+  
+| Campaign Category | Key Insights |
+|------------------|--------------|
+| **Top Campaigns (by Signups)** | • High signup rates<br>• Low cost per signup |
+| **Lowest Campaigns (by Signups)** | • Low signup rates<br>• High cost per signup<br>• **Golden Years Security** underperformed relative to all other campaigns. |
+
+</div>
+
 <p align="center">
 <img width="700" alt="Signups" src="https://github.com/user-attachments/assets/510540bd-0596-43e2-b28c-1656c752617d" />
 </p>
+
 
 ## Notable Insights
 
