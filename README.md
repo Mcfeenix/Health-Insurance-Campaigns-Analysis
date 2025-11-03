@@ -1,4 +1,16 @@
-# Health-Insurance-Campaigns-Analysis
+# Health Insurance Campaigns Analysis
+## Project Overview
+
+Founded in **2016**, *PeopleFirst Health* is a medical insurance company serving more than **16,000 customers** across the United States. The company offers four health plan tiers — **Bronze**, **Silver**, **Gold**, and **Platinum** — each designed to meet different customer needs through varying premiums and claim coverage rates.
+
+In **2019**, PeopleFirst Health launched a new set of **12 marketing campaign categories** focused on key themes such as wellness tips, plan affordability, and preventative care. As the company prepares its marketing budget for the upcoming year, it seeks to better understand how these campaigns have performed and how they have influenced customer signups.
+
+This project — conducted in **Tableau** — aims to surface marketing insights and develop actionable recommendations by analyzing campaign performance from **2019 through 2023**, a period that spans the **COVID-19 era**.  
+
+The overarching goal of the marketing budget is to support two primary objectives:
+- **Increase awareness** of PeopleFirst Health’s insurance options  
+- **Boost customer signups** across all plan types
+
 ### North Star Metrics
 
 | Objective | Metric | Description | Company Results (2019-2023) |
