@@ -31,6 +31,16 @@ These metrics measure both reach and conversion effectiveness and are used to co
 |  | Cost per Signup | Cost to acquire one new customer | $3.68 |
 |  | Signup Rate | % of clicks that resulted in a signup | 1.92% |
 
+## Overall Trends
+
+Customer signup activity showed a clear pandemic-related pattern. In **March 2020**, the number of customer signups **doubled compared to the previous month**, marking the early impact of the COVID-19 pandemic. The trend reached its **peak in April 2020**, with **653 new customer signups** — the highest monthly total in the dataset.  
+
+Signups remained **elevated throughout the first year of the pandemic**, likely driven by increased interest in health coverage, but the **rate of new signups gradually slowed** in subsequent years as conditions stabilized.
+
+<p align="center">
+chart placeholder
+</p>
+
 ## Notable Insights
 
 - **Family Coverage Plan**  
