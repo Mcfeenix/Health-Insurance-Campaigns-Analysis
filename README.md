@@ -81,6 +81,9 @@ The following section breaks down the analysis by individual campaign.
 
 ## Notable Insights
 
+- **#HealthyLiving**  
+  This campaign was the only top performer in both impressions and customer signup metrics.
+  
 - **Family Coverage Plan**  
   This campaign recorded no click-through rate (CTR), indicating a possible delivery or data tracking issue. The lack of engagement resulted in zero customer signups. Further investigation is recommended to confirm whether the campaign was properly deployed or if there were data collection errors.
 
@@ -89,3 +92,24 @@ The following section breaks down the analysis by individual campaign.
 
 - **Golden Years Security**  
   This campaign underperformed across all key metrics, with **low impressions**, **low CTR**, **few customer signups**, and the **highest cost per signup**. Further analysis could help determine whether the issue stemmed from poor audience targeting or ineffective content.
+
+## Recommendations and Next Steps
+
+Based on the campaign analysis from 2019–2023, the following recommendations are suggested to optimize marketing effectiveness and drive both awareness and customer signups:
+
+### 1. Analyze and invest in the #HealthyLiving Campaign
+- As a top performer in both impressions and customer signups, this campaign should be studied to identify the key factors behind its success, so that its strategies can be applied to future campaigns.
+- Consider allocating a larger portion of the marketing budget to this campaign to maximize ROI.
+
+### 2. Investigate Underperforming Campaigns
+- Campaigns like **Golden Years Security** and **Family Coverage Plan** underperformed, either due to low engagement or possible delivery/data issues.
+- Conduct a detailed review of campaign content, targeting, and delivery mechanisms to determine causes and opportunities for improvement.
+
+### 4. Monitor and Adjust in Real-Time
+- Implement ongoing tracking of CTR, impressions, cost per impression, and signup rates.
+- Use dynamic dashboards (e.g., Tableau) to quickly identify trends and adjust campaigns as needed for optimal results.
+
+### 5. Explore Opportunities for New Campaigns
+- Test new campaign categories or variations that build on the themes of successful campaigns.
+
+
