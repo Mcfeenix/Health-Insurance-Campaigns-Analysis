@@ -48,6 +48,14 @@ The following section breaks down the analysis by individual campaign.
 <img width="700" alt="campaign_spend (2)" src="https://github.com/user-attachments/assets/58d09878-032b-4adf-85f1-9cc4a6930391" />
 </p>
 
+<p align="center">
+<img width="700" alt="Impressions" src="https://github.com/user-attachments/assets/5d70fd1a-a909-4d91-b44f-88d02662dbd7" />
+</p>
+
+<p align="center">
+<img width="700" alt="Signups" src="https://github.com/user-attachments/assets/510540bd-0596-43e2-b28c-1656c752617d" />
+</p>
+
 ## Notable Insights
 
 - **Family Coverage Plan**  
