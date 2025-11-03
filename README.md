@@ -1,4 +1,18 @@
 # Health Insurance Campaigns Analysis
+
+## Table of Contents
+
+1. [Project Overview](#project-overview)  
+2. [Data Structure](#data-structure)  
+3. [North Star Metrics](#north-star-metrics)  
+4. [Overall Trends](#overall-trends)  
+5. [Deep Dive](#deep-dive)  
+    - [Campaign Performance by Impressions](#campaign-performance-by-impressions)  
+    - [Campaign Performance by Customer Signups](#campaign-performance-by-customer-signups)  
+6. [Notable Insights](#notable-insights)  
+7. [Recommendations and Next Steps](#recommendations-and-next-steps)
+8. Dashboard Placeholder
+
 ## Project Overview
 
 Founded in **2016**, *PeopleFirst Health* is a medical insurance company serving more than **16,000 customers** across the United States. The company offers four health plan tiers — **Bronze**, **Silver**, **Gold**, and **Platinum** — each designed to meet different customer needs through varying premiums and claim coverage rates.
