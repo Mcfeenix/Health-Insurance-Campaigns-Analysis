@@ -41,6 +41,13 @@ Signups remained **elevated throughout the first year of the pandemic**, likely 
 <img width="700" alt="signup_trends (2)" src="https://github.com/user-attachments/assets/b3a61917-e02e-48ff-bcad-dcb34bdb7cb3" />
 </p>
 
+## Deep Dive
+The following section breaks down the analysis by individual campaign.
+
+<p align="center">
+<img width="700" alt="campaign_spend (2)" src="https://github.com/user-attachments/assets/58d09878-032b-4adf-85f1-9cc4a6930391" />
+</p>
+
 ## Notable Insights
 
 - **Family Coverage Plan**  
