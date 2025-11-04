@@ -11,7 +11,7 @@
     - [Campaign Performance by Customer Signups](#campaign-performance-by-customer-signups)  
 6. [Notable Insights](#notable-insights)  
 7. [Recommendations and Next Steps](#recommendations-and-next-steps)
-8. Dashboard Placeholder
+8. [Tableau Dashboard Preview](#tableau-dashboard-preview)
 
 ## Project Overview
 
@@ -119,11 +119,18 @@ Based on the campaign analysis from 2019–2023, the following recommendations a
 - Campaigns like **Golden Years Security** and **Family Coverage Plan** underperformed, either due to low engagement or possible delivery/data issues.
 - Conduct a detailed review of campaign content, targeting, and delivery mechanisms to determine causes and opportunities for improvement.
 
+### 3. Explore Opportunities for New Campaigns
+- Test new campaign categories or variations that build on the themes of successful campaigns.
+
 ### 4. Monitor and Adjust in Real-Time
 - Implement ongoing tracking of CTR, impressions, cost per impression, and signup rates.
 - Use dynamic dashboards (e.g., Tableau) to quickly identify trends and adjust campaigns as needed for optimal results.
+- This screenshot shows the interactive dashboard developed for this project. To explore the live dashboard, [click here](LINK PLACEHOLDER).
 
-### 5. Explore Opportunities for New Campaigns
-- Test new campaign categories or variations that build on the themes of successful campaigns.
+<h4 align="center">
+Tableau Dashboard Preview
+</h4>
 
-
+<p align="center">
+<img width="700" alt="tableau_dashboard" src="https://github.com/user-attachments/assets/12b8f891-8c8e-4ba0-9a11-a4fef2c059d9" />
+</p>
