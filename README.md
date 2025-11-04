@@ -125,7 +125,7 @@ Based on the campaign analysis from 2019–2023, the following recommendations a
 ### 4. Monitor and Adjust in Real-Time
 - Implement ongoing tracking of CTR, impressions, cost per impression, and signup rates.
 - Use dynamic dashboards (e.g., Tableau) to quickly identify trends and adjust campaigns as needed for optimal results.
-- This screenshot shows the interactive dashboard developed for this project. To explore the live dashboard, [click here](LINK PLACEHOLDER).
+- This screenshot shows the interactive dashboard developed for this project. To explore the live dashboard, [click here](https://public.tableau.com/shared/PTQZDNXR6?:display_count=n&:origin=viz_share_link).
 
 <h4 align="center">
 Tableau Dashboard Preview
