@@ -29,7 +29,7 @@ The overarching goal of the marketing budget is to support two primary objective
 The dataset includes three primary tables capturing campaign, customer, and claims information.
 
 <p align="center">
-<img width="500" alt="PeopleFirst_ERD" src="https://github.com/user-attachments/assets/1fbebcbc-437f-4912-b81f-77f013798ba3" />
+<img width="500" alt="peoplefirst_erd (2)" src="https://github.com/user-attachments/assets/b19ac5c7-b416-4429-a21d-e3566ed6fabd" />
 </p>
 
 ## North Star Metrics
