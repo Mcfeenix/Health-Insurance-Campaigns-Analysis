@@ -41,9 +41,9 @@ These metrics measure both reach and conversion effectiveness and are used to co
 | **Increase Awareness** | Impressions | Number of times campaign content was displayed | 9M |
 |  | Click-Through Rate (CTR) | % of impressions resulting in clicks | 9.4% |
 |  | Cost per Impression (CPI) | Cost per display | $0.0066 |
-| **Boost Customer Signups** | Customer Signups | Number of new customers | 16,000 |
-|  | Cost per Signup | Cost to acquire one new customer | $3.68 |
+| **Boost Customer Signups** | Customer Signups | Number of new customers | 16,338 |
 |  | Signup Rate | % of clicks that resulted in a signup | 1.92% |
+|  | Cost per Signup | Cost to acquire one new customer | $3.68 |
 
 ## Overall Trends
 
@@ -89,7 +89,7 @@ The following section breaks down the analysis by individual campaign.
 </div>
 
 <p align="center">
-<img width="700" alt="Signups" src="https://github.com/user-attachments/assets/510540bd-0596-43e2-b28c-1656c752617d" />
+<img width="700" alt="signups (3)" src="https://github.com/user-attachments/assets/94b03e0e-aed4-425b-90e9-2848b8f0dc7f" />
 </p>
 
 
@@ -102,7 +102,7 @@ The following section breaks down the analysis by individual campaign.
   This campaign achieved **exceptional performance** despite having the **lowest number of impressions (170K)**. It recorded the **highest CTR (25%)**, generated **3,545 new customers**, maintained a **low cost per signup ($1)**, and achieved the **highest signup rate (8%)** among all campaigns. These results suggest highly effective messaging and targeting.
   
 - **Family Coverage Plan**  
-  This campaign recorded no click-through rate (CTR), indicating a possible delivery or data tracking issue. The lack of engagement resulted in zero customer signups. Further investigation is recommended to confirm whether the campaign was properly deployed or if there were data collection errors.
+  This campaign recorded no click-through rate (CTR), indicating a possible delivery or data tracking issue. The lack of engagement resulted in few customer signups. Further investigation is recommended to confirm whether the campaign was properly deployed or if there were data collection errors.
 
 - **Golden Years Security**  
   This campaign underperformed across all key metrics, with **low impressions**, **low CTR**, **few customer signups**, and the **highest cost per signup**. Further analysis could help determine whether the issue stemmed from poor audience targeting or ineffective content.
