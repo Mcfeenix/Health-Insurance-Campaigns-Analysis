@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Project Overview](#project-overview)  
-2. [Data Structure](#data-structure)  
+2. [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)  
 3. [North Star Metrics](#north-star-metrics)  
 4. [Overall Trends](#overall-trends)  
 5. [Deep Dive](#deep-dive)  
@@ -25,7 +25,7 @@ The overarching goal of the marketing budget is to support two primary objective
 - **Increase awareness** of PeopleFirst Health’s insurance options  
 - **Boost customer signups** across all plan types
 
-## Data Structure
+## Entity Relationship Diagram (ERD)
 The dataset includes three primary tables capturing campaign, customer, and claims information.
 
 <p align="center">
