@@ -74,7 +74,7 @@ The following section breaks down the analysis by individual campaign.
 </div>
 
 <p align="center">
-<img width="700" alt="Impressions" src="https://github.com/user-attachments/assets/5d70fd1a-a909-4d91-b44f-88d02662dbd7" />
+<img width="700" alt="impressions (2)" src="https://github.com/user-attachments/assets/468bc953-4cf9-4f66-85a9-ab5b6e6c01a5" />
 </p>
 
 ### Campaign Performance by Customer Signups
